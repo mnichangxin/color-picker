@@ -1,4 +1,4 @@
-# colorpicker
+# color-picker
 
 原生JS拾色器
 
